@@ -1,2 +1,4 @@
 こんにちは
 Track Job です。
+
+git pull <Track-Job-tutorial> <test>
